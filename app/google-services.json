@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213053535489",
+    "firebase_url": "https://mobileotp-a9839.firebaseio.com",
+    "project_id": "mobileotp-a9839",
+    "storage_bucket": "mobileotp-a9839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213053535489:android:f92252b8c80ece18",
+        "android_client_info": {
+          "package_name": "com.example.acer.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213053535489-tm3mmtehmbt847s9ua6i5c67htgc73j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.myapplication1",
+            "certificate_hash": "3de91617767a4b8df53cae889113f5e72261cc1e"
+          }
+        },
+        {
+          "client_id": "213053535489-s7ilp3ni5t17fi4tfovqtlmn13ntpua4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUZZkUrEyEF60iAfhy7eYaKFm_V9WawKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213053535489-s7ilp3ni5t17fi4tfovqtlmn13ntpua4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
